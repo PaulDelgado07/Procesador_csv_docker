@@ -1,0 +1,13 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+.env
+.env.*
+.DS_Store
+salida/
+datos_ejemplo/
+evidencias/
+README.md
